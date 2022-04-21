@@ -1,0 +1,2 @@
+# Swtich-condition
+JS practice
